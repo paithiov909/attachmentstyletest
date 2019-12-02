@@ -1,0 +1,43 @@
+{
+  "name": "attachmentstyletest",
+  "version": "1.0.0",
+  "description": "My world-class Nuxt.js project",
+  "author": "paithiov909",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paithiov909/attachmentstyletest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/paithiov909/attachmentstyletest/issues"
+  },
+  "homepage": "https://github.com/paithiov909/attachmentstyletest#readme",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "live-server --mount=/:dist",
+    "generate": "nuxt generate",
+    "test": "yarn --version",
+    "pack:build": "yarn generate",
+    "pack:clean": "rimraf dist/ && mkdirp dist/",
+    "pack:package": "yarn pack:clean && yarn pack:build"
+  },
+  "dependencies": {
+    "@nuxtjs/google-analytics": "^2.2.0",
+    "@nuxtjs/google-gtag": "^1.0.4",
+    "@nuxtjs/sitemap": "^1.2.0",
+    "file-saver": "^2.0.2",
+    "jquery": "^3.4.1",
+    "nuxt": "^2.0.0",
+    "nuxt-compress": "^1.0.2",
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {
+    "cpy-cli": "^2.0.0",
+    "live-server": "^1.2.1",
+    "mkdirp": "^0.5.1",
+    "nodemon": "^1.18.9",
+    "rimraf": "^2.6.3"
+  }
+}
