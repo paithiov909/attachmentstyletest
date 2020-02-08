@@ -82,6 +82,6 @@ export default {
   buildDir: "./_nuxt/",
   generate: {
     dir: "dist",
-    devtools: true
+    devtools: false
   }
 }
