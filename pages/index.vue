@@ -9,7 +9,6 @@
             <div class="jumbotron">
                 <h2>愛着スタイル診断テスト</h2>
                 <p><a href="https://g.co/kgs/aRxumE" target="_new" rel="noopener">回避性愛着障害～絆が稀薄な人たち～ (光文社新書)</a> をもとに作成した愛着スタイル診断テストです。次の質問に対し、過去数年間のご自分の傾向を思い浮かべながら、もっともあてはまる選択肢を選んでください。</p>
-                <p><nuxt-link to="/community">メンタルヘルスで悩んでいるひと、その支援者向けのコミュニティはこちら</nuxt-link></p>
             </div>
         </div>
 

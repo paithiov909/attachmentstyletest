@@ -1,6 +1,6 @@
 # attachmentstyletest
 
-Copyright © 2019 Lobiでコミュニケーションとか無理くないですか
+Copyright © 2019-2020 愛着スタイル診断テスト
 
 ## Notice
 
