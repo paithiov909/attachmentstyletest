@@ -28,7 +28,7 @@
     "@nuxtjs/google-gtag": "^1.0.4",
     "@nuxtjs/sitemap": "^1.2.0",
     "file-saver": "^2.0.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "nuxt": "^2.0.0",
     "nuxt-compress": "^1.0.2",
     "underscore": "^1.9.1"
