@@ -2921,7 +2921,7 @@ compressible@~2.0.16:
   dependencies:
     mime-db ">= 1.43.0 < 2"
 
-compression-webpack-plugin@^6.1.0:
+compression-webpack-plugin@^6.1.1:
   version "6.1.1"
   resolved "https://registry.yarnpkg.com/compression-webpack-plugin/-/compression-webpack-plugin-6.1.1.tgz#ae8e4b2ffdb7396bb776e66918d751a20d8ccf0e"
   integrity sha512-BEHft9M6lwOqVIQFMS/YJGmeCYXVOakC5KzQk05TFpMBlODByh1qNsZCWjUBxCQhUP9x0WfGidxTbGkjbWO/TQ==
@@ -6173,13 +6173,13 @@ number-is-nan@^1.0.0:
   resolved "https://registry.yarnpkg.com/number-is-nan/-/number-is-nan-1.0.1.tgz#097b602b53422a522c1afb8790318336941a011d"
   integrity sha1-CXtgK1NCKlIsGvuHkDGDNpQaAR0=
 
-nuxt-compress@4.1.0:
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/nuxt-compress/-/nuxt-compress-4.1.0.tgz#cdfe335d0800d4be29c5bfe6dfbb1450d01bcd70"
-  integrity sha512-GgSbMdtfCYZa1mDkU/5STUf0FbznQ7weJTCIxEJpNWc3s6RmrF4gs+KGq4fTHH/hTxcsJyV0gi7tuV+fFtRSNQ==
+nuxt-compress@4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/nuxt-compress/-/nuxt-compress-4.1.1.tgz#a98f4365c0dc76dd4381d0e64ac1f9889f0a3d70"
+  integrity sha512-UJHPHImErAyqcIarUletNoTugzXvpZRUHhUOtZTQeSFbTq4RDqsvW+Guu2HPhB3ZeU8n4TQSHVjKDG6f9Wdz4Q==
   dependencies:
     brotli-webpack-plugin "^1.1.0"
-    compression-webpack-plugin "^6.1.0"
+    compression-webpack-plugin "^6.1.1"
 
 nuxt@2.15.2:
   version "2.15.2"
