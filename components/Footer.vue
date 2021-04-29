@@ -30,7 +30,7 @@
                 <div class="row">
                     <div class="col-sm-6 copyright">
                         <p>
-                            Copyright &copy; 2019-2020 愛着スタイル診断テスト
+                            Copyright &copy; 2019-2021 愛着スタイル診断テスト
                         </p>
                     </div>
                     <div class="col-sm-6 social">
