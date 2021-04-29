@@ -1,7 +1,7 @@
 const webpack = require("webpack")
 
 export default {
-  mode: "universal",
+  target: "static",
   head: {
     htmlAttrs: {
       lang: "ja",
