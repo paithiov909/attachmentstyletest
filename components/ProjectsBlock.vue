@@ -5,7 +5,7 @@
             <div class="row" v-for="(value, key, index) in projects" :key="value.link" v-once>
                 <div class="project shadow-large">
                     <div class="project-image">
-                        <img :src="value.img" />
+                        <img :src="value.img" width="100" height="160" />
                     </div>
                     <!-- End .project-image -->
                     <div class="project-info">

@@ -19,6 +19,7 @@ export default {
       { hid: "og:site_name", property: "og:site_name", content: "愛着スタイル診断テスト"  },
       { hid: "og:description", property: "og:description", content: "回避性愛着障害～絆が稀薄な人たち～ (光文社新書) をもとに作成した愛着スタイル診断テストです。" },
       { hid: "og:url", property: "og:url", content: "https://attachmentstyletest.web.fc2.com/" },
+      { hid: "fb:app_id", property: "fb:app_id", content: "334247574149025" },
       { hid: "twitter:card", name: "twitter:card", content: "summary" },
       { name: "msapplication-TileColor", content: "#da532c" },
       { name: "msapplication-config", content: "https://attachmentstyletest.web.fc2.com/favicon/broserconfig.xml" },
@@ -34,10 +35,6 @@ export default {
       { rel: "stylesheet", href: "https://fonts.googleapis.com/css?family=Lato:300,400,700,900" },
       { rel: "stylesheet", href: "https://cdnjs.cloudflare.com/ajax/libs/fork-awesome/1.1.7/css/fork-awesome.min.css", integrity: "sha256-gsmEoJAws/Kd3CjuOQzLie5Q3yshhvmo7YNtBG7aaEY=", crossorigin: "anonymous" },
       { rel: "stylesheet", href: "https://cdnjs.cloudflare.com/ajax/libs/pretty-checkbox/3.0.0/pretty-checkbox.min.css", integrity: "sha256-KCHcsGm2E36dSODOtMCcBadNAbEUW5m+1xLId7xgLmw=", crossorigin: "anonymous" }
-    ],
-    script: [
-      { src: "https://b.st-hatena.com/js/bookmark_button.js", async: true },
-      { src: "https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js", async: true }
     ]
   },
   loading: { color: "#fff" },
