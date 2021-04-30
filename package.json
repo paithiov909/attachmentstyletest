@@ -36,7 +36,7 @@
     "nuxt": "2.15.4",
     "nuxt-compress": "5.0.0",
     "underscore": "1.13.1",
-    "vue-goodshare": "^1.5.2"
+    "vue-goodshare": "1.5.2"
   },
   "devDependencies": {
     "cpy-cli": "3.1.1",
@@ -44,16 +44,11 @@
     "live-server": "1.2.1",
     "mkdirp": "1.0.4",
     "nodemon": "2.0.7",
-<<<<<<< Updated upstream
     "prettier": "2.2.1",
     "pretty-quick": "3.1.0",
     "rimraf": "3.0.2"
-=======
-    "prettier": "^2.2.1",
-    "pretty-quick": "^3.1.0",
     "rimraf": "3.0.2",
-    "sass": "^1.32.12",
+    "sass": "1.32.12",
     "sass-loader": "10.1.1"
->>>>>>> Stashed changes
   }
 }
