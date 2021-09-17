@@ -33,8 +33,8 @@ export default {
       { rel: "mask-icon", href: "https://attachmentstyletest.web.fc2.com/favicon/safari-pinned-tab.svg", color: "#5bbad5" },
       { rel: "shortcut icon", href: "https://attachmentstyletest.web.fc2.com/favicon/favicon.ico" },
       { rel: "stylesheet", href: "https://fonts.googleapis.com/css?family=Lato:300,400,700,900" },
-      { rel: "stylesheet", href: "https://cdnjs.cloudflare.com/ajax/libs/fork-awesome/1.1.7/css/fork-awesome.min.css", integrity: "sha256-gsmEoJAws/Kd3CjuOQzLie5Q3yshhvmo7YNtBG7aaEY=", crossorigin: "anonymous" },
-      { rel: "stylesheet", href: "https://cdnjs.cloudflare.com/ajax/libs/pretty-checkbox/3.0.0/pretty-checkbox.min.css", integrity: "sha256-KCHcsGm2E36dSODOtMCcBadNAbEUW5m+1xLId7xgLmw=", crossorigin: "anonymous" }
+      { rel: "stylesheet", href: "https://cdnjs.cloudflare.com/ajax/libs/fork-awesome/1.2.0/css/fork-awesome.min.css", integrity: "sha512-aupidr80M36SeyviA/hZ2uEPnvt2dTJfyjm9y6z1MgaV13TgzmDiFdsH3cvSNG27mRIj7gJ2gNeg1HeySJyE3Q==", crossorigin: "anonymous" },
+      { rel: "stylesheet", href: "https://cdnjs.cloudflare.com/ajax/libs/pretty-checkbox/3.0.3/pretty-checkbox.min.css", integrity: "sha512-kz4Ae66pquz4nVE5ytJyKfPDkQyHSggaDtT1v8oLfOd8bB+ZgZXNLaxex99MNu4fdCsWmi58mhLtfGk5RgfcOw==", crossorigin: "anonymous" }
     ]
   },
   loading: { color: "#fff" },
