@@ -47,12 +47,12 @@ export default {
   ],
   modules: [
     "@nuxtjs/google-gtag",
-    ["@nuxtjs/google-analytics", { id: "UA-73417314-5" }],
+    ["@nuxtjs/google-analytics", { id: "G-NDDBVRTYH2" }],
     "nuxt-compress",
     "@nuxtjs/sitemap"
   ],
   "google-gtag": {
-    id: "UA-73417314-5",
+    id: "G-NDDBVRTYH2",
     config: {
       // check out official docs: https://developers.google.com/analytics/devguides/collection/gtagjs/
       anonymize_ip: true,

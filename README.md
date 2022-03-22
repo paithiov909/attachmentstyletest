@@ -1,6 +1,6 @@
 # attachmentstyletest
 
-Copyright © 2019-2021 愛着スタイル診断テスト
+Copyright © 2022 愛着スタイル診断テスト
 
 ## Notice
 
