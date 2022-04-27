@@ -42,7 +42,7 @@
     "cpy-cli": "4.1.0",
     "fibers": "5.0.1",
     "husky": "7.0.4",
-    "live-server": "1.2.1",
+    "live-server": "1.2.2",
     "mkdirp": "1.0.4",
     "nodemon": "2.0.15",
     "prettier": "2.6.2",
