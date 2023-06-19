@@ -39,7 +39,7 @@
     "vue-goodshare": "1.6.1"
   },
   "devDependencies": {
-    "cpy-cli": "4.1.0",
+    "cpy-cli": "4.2.0",
     "fibers": "5.0.1",
     "husky": "8.0.1",
     "live-server": "1.2.2",
