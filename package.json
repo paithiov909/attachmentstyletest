@@ -33,7 +33,7 @@
     "@nuxtjs/sitemap": "2.4.0",
     "file-saver": "2.0.5",
     "jquery": "3.6.0",
-    "nuxt": "2.15.8",
+    "nuxt": "3.4.3",
     "nuxt-compress": "5.0.0",
     "underscore": "1.13.4",
     "vue-goodshare": "1.6.1"
